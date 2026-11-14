@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="village defence"
+run/main_scene="uid://b7wiqik5n6h04"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
